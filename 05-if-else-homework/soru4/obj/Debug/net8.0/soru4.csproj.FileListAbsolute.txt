@@ -1,0 +1,14 @@
+C:\Users\MSI-NB\Documents\GitHub\HomeWorks_29_08_2024\05-if-else-homework\soru4\bin\Debug\net8.0\soru4.exe
+C:\Users\MSI-NB\Documents\GitHub\HomeWorks_29_08_2024\05-if-else-homework\soru4\bin\Debug\net8.0\soru4.deps.json
+C:\Users\MSI-NB\Documents\GitHub\HomeWorks_29_08_2024\05-if-else-homework\soru4\bin\Debug\net8.0\soru4.runtimeconfig.json
+C:\Users\MSI-NB\Documents\GitHub\HomeWorks_29_08_2024\05-if-else-homework\soru4\bin\Debug\net8.0\soru4.dll
+C:\Users\MSI-NB\Documents\GitHub\HomeWorks_29_08_2024\05-if-else-homework\soru4\bin\Debug\net8.0\soru4.pdb
+C:\Users\MSI-NB\Documents\GitHub\HomeWorks_29_08_2024\05-if-else-homework\soru4\obj\Debug\net8.0\soru4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI-NB\Documents\GitHub\HomeWorks_29_08_2024\05-if-else-homework\soru4\obj\Debug\net8.0\soru4.AssemblyInfoInputs.cache
+C:\Users\MSI-NB\Documents\GitHub\HomeWorks_29_08_2024\05-if-else-homework\soru4\obj\Debug\net8.0\soru4.AssemblyInfo.cs
+C:\Users\MSI-NB\Documents\GitHub\HomeWorks_29_08_2024\05-if-else-homework\soru4\obj\Debug\net8.0\soru4.csproj.CoreCompileInputs.cache
+C:\Users\MSI-NB\Documents\GitHub\HomeWorks_29_08_2024\05-if-else-homework\soru4\obj\Debug\net8.0\soru4.dll
+C:\Users\MSI-NB\Documents\GitHub\HomeWorks_29_08_2024\05-if-else-homework\soru4\obj\Debug\net8.0\refint\soru4.dll
+C:\Users\MSI-NB\Documents\GitHub\HomeWorks_29_08_2024\05-if-else-homework\soru4\obj\Debug\net8.0\soru4.pdb
+C:\Users\MSI-NB\Documents\GitHub\HomeWorks_29_08_2024\05-if-else-homework\soru4\obj\Debug\net8.0\soru4.genruntimeconfig.cache
+C:\Users\MSI-NB\Documents\GitHub\HomeWorks_29_08_2024\05-if-else-homework\soru4\obj\Debug\net8.0\ref\soru4.dll

@@ -1,0 +1,12 @@
+﻿namespace soru6;
+
+class Program
+{
+    static void Main(string[] args)
+    {
+       System.Console.WriteLine("lütfen bir sayi giriniz");
+       string sayi=Console.ReadLine();
+       double sayi1=Convert.ToDouble(sayi);
+       System.Console.WriteLine(Math.Sin(sayi1));
+    }
+}
